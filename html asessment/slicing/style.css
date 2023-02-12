@@ -1,0 +1,30 @@
+body {
+  background-image: url(img/bg-01.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.paragraf {
+  font-family: axiforma;
+}
+
+section .sectionkedua {
+  padding-top: 6rem;
+}
+
+.thereason {
+  font-size: 4rem;
+  font-weight: 1000;
+}
+
+body .axiforma #font {
+  font-family: "Axiforma";
+  src: local("Axiforma Light"), local("Axiforma-Light"), url("Axiforma-Light.woff2") format("woff2"), url("Axiforma-Light.woff") format("woff"), url("Axiforma-Light.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+.text{
+  margin-top: -50px;
+
+}
